@@ -64,11 +64,12 @@ header {
 }
 
 .books_container {
-  border: 1px solid black;
+
   display: flex;
   flex-direction: column;
   gap: 3px;
   width: 95%;
+  border: 1px solid black;
 }
 
 .info {
