@@ -110,7 +110,7 @@ header {
 }
 
 .book_item:nth-child(odd) {
-  background-color: rgb(232, 232, 245);
+    background-color: #d3d3d3;
 }
 
 .book_description {
