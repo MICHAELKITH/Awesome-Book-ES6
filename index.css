@@ -64,7 +64,6 @@ header {
 }
 
 .books_container {
-
   display: flex;
   flex-direction: column;
   gap: 3px;
@@ -111,7 +110,7 @@ header {
 }
 
 .book_item:nth-child(odd) {
-    background-color: #d3d3d3;
+  background-color: #d3d3d3;
 }
 
 .book_description {
